@@ -10,4 +10,4 @@ end
 group :test do
 end
 
-gem 'octokit', '~> 4.14'
+gem 'octokit', '~> 4.25'
